@@ -2,7 +2,7 @@
 <h1 align="center" id="title">IoT Car accident detector</h1>
 
   <p align="center">
-    Yuval Yacov Said and Michael Leib IoT Final Project
+    Yuval Saad and Michael Leib IoT Final Project
 
 <p align="center"><img src="https://i.postimg.cc/t4zBdHxx/accident.png" alt="project-image"></p>
 
